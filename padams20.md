@@ -8,7 +8,7 @@ My hobbies are the following:
 
 * Reading
 * Playing video games
-* Playing jokes on people, like \[this one](https://www.youtube.com/watch?v=AyOqGRjVtls)
+* Playing jokes on people, like \[this one](https://www.youtube.com/watch?v=AyOqGRjVtls/)
 
 \## Software and Programming
 
