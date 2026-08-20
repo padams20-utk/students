@@ -1,4 +1,4 @@
-\### Paul Adams
+\# Paul Adams
 
 My name is Paul Adams. My netid is padams20, so my GitHub username is padams20-utk. I'm a Computer Science and English Literature double major. I'm from Johnson city, Tennessee, which isn't too far from Knoxville.
 
